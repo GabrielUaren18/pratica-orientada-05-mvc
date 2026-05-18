@@ -1,0 +1,80 @@
+{
+  "pedidos": [
+    {
+      "cliente": "Gabriel",
+      "itens": [
+        {
+          "produto": {
+            "id": 1,
+            "nome": "Pizza",
+            "preco": 50
+          },
+          "quantidade": 2
+        }
+      ],
+      "total": 90,
+      "id": "mKpqx5Jvm10"
+    },
+    {
+      "cliente": "Gabriel",
+      "itens": [
+        {
+          "produto": {
+            "id": 1,
+            "nome": "Pizza",
+            "preco": 50
+          },
+          "quantidade": 2
+        }
+      ],
+      "total": 90,
+      "id": "8rauP0irytk"
+    },
+    {
+      "cliente": "Gabriel",
+      "itens": [
+        {
+          "produto": {
+            "id": 1,
+            "nome": "Pizza",
+            "preco": 50
+          },
+          "quantidade": 2
+        }
+      ],
+      "total": 90,
+      "id": "TKPwRsGizig"
+    },
+    {
+      "cliente": "Gabriel",
+      "itens": [
+        {
+          "produto": {
+            "id": 1,
+            "nome": "Pizza",
+            "preco": 50
+          },
+          "quantidade": 2
+        }
+      ],
+      "total": 90,
+      "id": "7vbh0jnaQKQ"
+    },
+    {
+      "cliente": "Gabriel",
+      "itens": [
+        {
+          "produto": {
+            "id": 1,
+            "nome": "Pizza",
+            "preco": 50
+          },
+          "quantidade": 2
+        }
+      ],
+      "total": 90,
+      "id": "7uzpadeLf1M"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
